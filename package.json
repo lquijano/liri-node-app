@@ -11,10 +11,13 @@
     "url": "git+https://github.com/lquijano/liri-node-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "leslie quijano",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lquijano/liri-node-app/issues"
   },
-  "homepage": "https://github.com/lquijano/liri-node-app#readme"
+  "homepage": "https://github.com/lquijano/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
