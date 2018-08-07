@@ -44,5 +44,5 @@ Request NPM Package - https://www.npmjs.com/package/request
 # Built With
 Atom - Text Editor
 
-#Authors
-Leslie Quijano - Node JS - https://github.com/lquijano
+# Authors
+Leslie Quijano - Node JS - 
