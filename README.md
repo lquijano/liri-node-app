@@ -37,12 +37,12 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 # Technology Used
 Node.js
-Twitter NPM Package - https://www.npmjs.com/package/twitter
-Spotify NPM Package - https://www.npmjs.com/package/spotify
-Request NPM Package - https://www.npmjs.com/package/request
+Twitter NPM Package - https://www.npmjs.com/package/twitter <br>
+Spotify NPM Package - https://www.npmjs.com/package/spotify <br>
+Request NPM Package - https://www.npmjs.com/package/request <br>
 
 # Built With
 Atom - Text Editor
 
 # Authors
-Leslie Quijano - Node JS - 
+Leslie Quijano - Node JS 
